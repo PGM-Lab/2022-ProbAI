@@ -17,6 +17,7 @@
 
 ## Day 2 - After Lunch (June 14 -- 1pm-4pm)
 * [Slides](https://github.com/PGM-Lab/2022-ProbAI/raw/main/Day2-AfterLunch/probAI-day2_after_lunch.pdf)
+* Notebook: [BayesianNeuralNetworks](https://colab.research.google.com/github/PGM-Lab/2022-ProbAI/blob/main/Day2-AfterLunch/notebooks/BayesianNeuralNetworks.ipynb)
 * Notebook: [students_BBVI](https://colab.research.google.com/github/PGM-Lab/2022-ProbAI/blob/main/Day2-AfterLunch/notebooks/students_BBVI.ipynb)
 * Notebook: [solutions_BBVI](https://colab.research.google.com/github/PGM-Lab/2022-ProbAI/blob/main/Day2-AfterLunch/notebooks/solutions_BBVI.ipynb)
 * Notebook: [student_simple_gaussian_model_pyro](https://colab.research.google.com/github/PGM-Lab/2022-ProbAI/blob/main/Day2-AfterLunch/notebooks/student_simple_gaussian_model_pyro.ipynb)
